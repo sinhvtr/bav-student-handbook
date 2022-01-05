@@ -7,7 +7,7 @@ with open('sotay.json', 'r', encoding='utf8') as fr:
 corpus = []
 for article in data:
     for paragraph in article['article_paragraphs']:
-        corpus.append(paragraph['paragraph_text'].lower())
+        corpus.append(paragraph['paragraph_text'])
 
 tokenized_corpus = [doc.split(" ") for doc in corpus]
 
@@ -20,7 +20,6 @@ form = st.form(key='my_form')
 text_input = form.text_input(label='Viết câu hỏi của bạn')
 submit_button = form.form_submit_button(label='Tra cứu')
 if submit_button:
-    text_input = text_input.lower()
     tokenized_query = text_input.split(" ")
     doc_scores = bm25.get_scores(tokenized_query).tolist()
     doc_scores = sorted(doc_scores, reverse=True)
