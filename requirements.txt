@@ -1,4 +1,4 @@
 altair
 pandas
 streamlit
-bm25
+rank_bm25
