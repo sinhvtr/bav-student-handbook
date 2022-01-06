@@ -1,19 +1,5 @@
 [
   {
-    "article_id": 1,
-    "article_text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
-    "article_paragraphs": [
-      {
-        "paragraph_id": 1,
-        "paragraph_text": "1. Quy chế này quy định đào tạo đại học và cao đẳng hệ chính quy theo hệ thống tín chỉ, bao gồm: tổ chức đào tạo; kiểm tra và thi học phần; xét và công nhận tốt nghiệp."
-      },
-      {
-        "paragraph_id": 2,
-        "paragraph_text": "2.Quy chế này áp dụng đối với sinh viên các khoá đào tạo hệ chính quy ở trình độ đại học và cao đẳng của Học viện Ngân hàng (HVNH) thực hiện theo hình thức tích luỹ tín chỉ."
-      }
-    ]
-  },
-  {
     "article_id": 2,
     "article_text": "Điều 2. Chương trình đào tạo, đề cương chi tiết học phần",
     "article_paragraphs": [
@@ -573,90 +559,6 @@
       {
         "paragraph_id": 3,
         "paragraph_text": "3. Trừ trường hợp như quy định tại khoản 2 của Điều này, mức độ sai phạm và khung xử lý kỷ luật đối với sinh viên vi phạm được thực hiện theo các quy định của Quy chế tuyển sinh đại học, cao đẳng hệ chính quy."
-      }
-    ]
-  },
-  {
-    "article_id": 30,
-    "article_text": "Điều 30. Tổ chức thực hiện",
-    "article_paragraphs": [
-      {
-        "paragraph_id": 1,
-        "paragraph_text": "1. HVNH triển khai đào tạo theo hệ thống tín chỉ cho các trình độ, hệ đào tạo phù hợp với quy định và điều kiện cụ thể từng giai đoạn."
-      },
-      {
-        "paragraph_id": 2,
-        "paragraph_text": "2. Định kỳ 02 năm một lần, HVNH tổ chức rà soát, đánh giá quá trình thực hiện, bổ sung và chỉnh sửa chương trình đào tạo, các quy định về đào tạo theo hệ thống tín chỉ cho phù hợp với điều kiện thực tế của HVNH."
-      },
-      {
-        "paragraph_id": 3,
-        "paragraph_text": "3. Giám đốc HVNH quy định cụ thể trong việc đánh giá và công nhận lẫn nhau về quy trình đào tạo, nội dung đào tạo và giá trị của tín chỉ, làm cơ sở cho việc công nhận kiến thức đã tích lũy của sinh viên sử dụng trong trường hợp chuyển trường, học liên thông hoặc học tiếp lên trình độ cao hơn giữa các cơ sở đào tạo."
-      },
-      {
-        "paragraph_id": 4,
-        "paragraph_text": "4. Để so sánh trong tuyển dụng, kết quả học tập toàn khóa của sinh viên đại học, cao đẳng giữa đào tạo theo tín chỉ và đào tạo theo niên chế được chuyển đổi tương đương theo hạng tốt nghiệp (theo hướng dẫn)."
-      },
-      {
-        "paragraph_id": 5,
-        "paragraph_text": ""
-      },
-      {
-        "paragraph_id": 6,
-        "paragraph_text": ""
-      },
-      {
-        "paragraph_id": 7,
-        "paragraph_text": ""
-      }
-    ]
-  },
-  {
-    "article_id": 31,
-    "article_text": "Điều 30. Tổ chức thực hiện",
-    "article_paragraphs": [
-      {
-        "paragraph_id": 1,
-        "paragraph_text": "1. HVNH triển khai đào tạo theo hệ thống tín chỉ cho các trình độ, hệ đào tạo phù hợp với quy định và điều kiện cụ thể từng giai đoạn."
-      },
-      {
-        "paragraph_id": 2,
-        "paragraph_text": "2. Định kỳ 02 năm một lần, HVNH tổ chức rà soát, đánh giá quá trình thực hiện, bổ sung và chỉnh sửa chương trình đào tạo, các quy định về đào tạo theo hệ thống tín chỉ cho phù hợp với điều kiện thực tế của HVNH."
-      },
-      {
-        "paragraph_id": 3,
-        "paragraph_text": "3. Giám đốc HVNH quy định cụ thể trong việc đánh giá và công nhận lẫn nhau về quy trình đào tạo, nội dung đào tạo và giá trị của tín chỉ, làm cơ sở cho việc công nhận kiến thức đã tích lũy của sinh viên sử dụng trong trường hợp chuyển trường, học liên thông hoặc học tiếp lên trình độ cao hơn giữa các cơ sở đào tạo."
-      },
-      {
-        "paragraph_id": 4,
-        "paragraph_text": "4. Để so sánh trong tuyển dụng, kết quả học tập toàn khóa của sinh viên đại học, cao đẳng giữa đào tạo theo tín chỉ và đào tạo theo niên chế được chuyển đổi tương đương theo hạng tốt nghiệp (theo hướng dẫn)."
-      }
-    ]
-  },
-  {
-    "article_id": 32,
-    "article_text": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
-    "article_paragraphs": [
-      {
-        "paragraph_id": 1,
-        "paragraph_text": "1. Quy chế này quy định công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy tại Trụ sở Học viện Ngân hàng, Phân viện Bắc Ninh, Phân viện Phú Yên và Cơ sở đào tạo Sơn Tây (sau đây gọi chung là Học viện Ngân hàng), bao gồm: Những quy định chung; nhiệm vụ và quyền của sinh viên; khen thưởng và kỷ luật sinh viên; nội dung công tác sinh viên; hệ thống tổ chức, quản lý; tổ chức thực hiện và một số nội dung khác theo quy định của pháp luật và của Học viện Ngân hàng."
-      },
-      {
-        "paragraph_id": 2,
-        "paragraph_text": "2. Quy chế này cụ thể hóa việc triển khai thực hiện Quy chế Công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy ban hành theo Thông tư số 10/2016/ TT-BGDĐT ngày 05/04/2016 của Bộ trưởng Bộ Giáo dục và đào tạo; Quyết định số 1325/ QĐ-BGDĐT ngày 25/04/2016 về việc đính chính Thông tư số 10/2016/TT-BGDĐT ngày 05 tháng 04 năm 2016 của Bộ trưởng Bộ giáo dục và Đào tạo ban hành Quy chế công tác sinh viên đối với chương trình đào tạo đại học hệ chính quy."
-      }
-    ]
-  },
-  {
-    "article_id": 33,
-    "article_text": "Điều 2. Sinh viên",
-    "article_paragraphs": [
-      {
-        "paragraph_id": 1,
-        "paragraph_text": "1. Sinh viên được quy định tại quy chế này là người đang học chương trình đào tạo trình độ đại học hệ chính quy tại Học viện Ngân hàng."
-      },
-      {
-        "paragraph_id": 2,
-        "paragraph_text": "2. Sinh viên là trung tâm của các hoạt động giáo dục và đào tạo trong Học viện Ngân hàng, được bảo đảm điều kiện thực hiện đầy đủ nhiệm vụ và quyền trong quá trình học tập và rèn luyện tại Học viện Ngân hàng."
       }
     ]
   },
