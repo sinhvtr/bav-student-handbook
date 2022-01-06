@@ -17,7 +17,7 @@ st.title("Hệ thống tra cứu quy chế sinh viên Học viện Ngân hàng")
 st.text("Dựa trên nội dung phần II cuốn Sổ tay sinh viên năm 2017")
 
 # form = st.form(key='my_form')
-text_input = form.text_input(label='Viết câu hỏi của bạn')
+text_input = st.text_input(label='Viết câu hỏi của bạn')
 # submit_button = form.form_submit_button(label='Tra cứu')
 # if submit_button:
 tokenized_query = text_input.split(" ")
