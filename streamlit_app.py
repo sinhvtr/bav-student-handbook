@@ -6,6 +6,7 @@ with open('sotay.json', 'r', encoding='utf8') as fr:
     data = json.load(fr)
 corpus = []
 for article in data:
+    corpus.append(article['article_text'])
     for paragraph in article['article_paragraphs']:
         corpus.append(paragraph['paragraph_text'])
 
